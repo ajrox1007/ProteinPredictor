@@ -1,6 +1,8 @@
 # Protein Predictor ML
 
-A sophisticated 3D protein analysis tool for drug discovery with AI-powered insights and molecular design capabilities.
+A 3D protein analysis tool for drug discovery with AI-powered insights and molecular design capabilities.
+
+<img width="1510" height="783" alt="Screenshot 2025-09-16 at 11 04 49 AM" src="https://github.com/user-attachments/assets/3bf0f5bc-7e1b-4371-97a9-427844bc80c3" />
 
 ## Features
 
